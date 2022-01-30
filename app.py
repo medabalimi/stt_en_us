@@ -1,0 +1,1 @@
+from stt_api import app
