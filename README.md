@@ -1,5 +1,5 @@
 # stt_en_us
-Speech to Text for EN-US using Nvidia's Nemo models. Uses Celery to handle the requests asynchronously.
+Speech to Text microservice for EN-US using Nvidia's Nemo models. Uses Celery to handle the requests asynchronously.
 
 ## Docker build instructions:
 ### Clone the git repo:
