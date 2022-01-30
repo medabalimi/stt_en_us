@@ -1,5 +1,5 @@
 # stt_en_us
-Speech to Text microservice for EN-US using Nvidia's Nemo models. Uses Celery to handle the requests asynchronously. Please note that the models themselves aren't a part of this repo. Nemo models are downloaded when you build the docker. By building the docker, you assume that you accept the license terms for the models as described in https://ngc.nvidia.com/legal/terms
+Speech to Text microservice for EN-US using Nvidia's Nemo models. Uses Celery to handle the requests asynchronously. Please note that the models themselves aren't a part of this repo. Nemo models are downloaded when you build the docker. By building the docker, it is assumed that you accept the license terms for the models as described in https://ngc.nvidia.com/legal/terms
 
 ## Docker build instructions:
 ### Clone the git repo:
